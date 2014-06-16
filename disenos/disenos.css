@@ -1,0 +1,302 @@
+@charset "utf-8";
+/* CSS Document */
+#introduc{
+	background-color:#3CF
+}
+
+#introdtae{
+	width:100%;
+	height:100px;
+	vertical-align:middle;
+	text-align:justify;
+	color:#000;
+	font-size:15px;
+	text-height:font-size;
+	text-shadow:1px 0px #000;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:5px;
+	background-color:#09F
+	}
+	
+	#footer{
+	width:100%;
+	font-size:15px;
+	text-height:font-size;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	text-align:center;
+	border-style:ridge;
+	border-width:thick;
+	border-color:#fff;
+	/*background:#D400FF;*/
+	background-color:#CF6);
+    background:#06F;
+    color: rgba(0, 164, 255, 0.8);
+	color:#CCC;
+    }
+	
+#header{
+	width:auto;
+	height:auto;
+	font-size:15px;
+	text-height:font-size;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	text-align:center;
+	border-style:ridge;
+	border-width:thick;
+	border-color:#fff;
+	/*background:#D400FF;*/
+	background-color: rgba(0, 66, 255, 0.6);
+background: rgba(0, 66, 255, 0.6);
+color: rgba(0, 66, 255, 0.6);
+		color:#FFF;
+		margin-top:10px;}
+		
+#contex{width:100%;
+	height:100px;
+	vertical-align:middle;
+	text-align:justify;
+	color:#000;
+	font-size:15px;
+	text-height:font-size;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:5px;}
+	
+#subtitulos{
+	width:100%;
+	height:60px;
+	vertical-align:middle;
+	text-align:justify;
+	color:#000;
+	font-size:25px;
+	text-height:font-size;
+	font-family:"Trajan pro", Arial, Helvetica, sans-serif;
+	margin:5px;
+	background-color:#28CD0C}
+	
+#imgorigen{
+	width:100%;
+    height:345px;
+	vertical-align:middle;
+	background-color:#999;
+	background-image:url(../imagenes/maestro.jpg);}
+	
+#contcolor{
+	background-color:#FC3;
+	}
+#termino1{
+	width:30%;
+	height:170px;
+	float:left;
+	vertical-align:middle;
+	text-align:justify;
+	color:#000;
+	font-size:14px;
+	text-height:font-size;
+	font-family:"Trajan pro", Arial, Helvetica, sans-serif;
+	margin:5px;
+	background-color:#9FC}
+	
+#termino2{
+	width:30%;
+	height:170px;
+	float:left;
+	vertical-align:middle;
+	text-align:justify;
+	color:#000;
+	font-size:14px;
+	text-height:font-size;
+	font-family:"Trajan pro", Arial, Helvetica, sans-serif;
+	margin:5px;
+	background-color:#9FC} 
+	
+#termino3{
+	width:30%;
+	height:170px;
+	float:left;
+	vertical-align:middle;
+	text-align:justify;
+	color:#000;
+	font-size:14px;
+	text-height:font-size;
+	font-family:"Trajan pro", Arial, Helvetica, sans-serif;
+	margin:5px;
+	background-color:#9FC}
+#page3{
+	background-color:#3F6;
+	width:100%;
+	}
+#text4{width:90%;
+	height:1480px;
+	vertical-align:middle;
+	text-align:justify;
+	color:#000;
+	font-size:15px;
+	text-height:font-size;
+	text-shadow:1px 0px #000;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:5px;
+	background-color:#5A828D}
+	
+#text4-1{width:100%;
+	height:110px;
+	vertical-align:middle;
+	text-align:justify;
+	color:#000;
+	font-size:15px;
+	text-height:font-size;
+	text-shadow:1px 0px #000;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:5px;
+	background-color:#639}
+	
+#text4-2{width:100%;
+	height:280px;
+	vertical-align:middle;
+	text-align:justify;
+	color:#000;
+	font-size:15px;
+	text-height:font-size;
+	text-shadow:1px 0px #000;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:5px;
+	background-color:#C0F}
+	
+#text4-3{width:100%;
+	height:140px;
+	vertical-align:middle;
+	text-align:justify;
+	color:#000;
+	font-size:15px;
+	text-height:font-size;
+	text-shadow:1px 0px #000;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:5px;
+	background-color:#639}
+	
+#text4-4{width:100%;
+	height:245px;
+	vertical-align:middle;
+	text-align:justify;
+	color:#000;
+	font-size:15px;
+	text-height:font-size;
+	text-shadow:1px 0px #000;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:5px;
+	background-color:#C0F}
+	
+#text4-5{width:100%;
+	height:380px;
+	vertical-align:middle;
+	text-align:justify;
+	color:#000;
+	font-size:15px;
+	text-height:font-size;
+	text-shadow:1px 0px #000;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:5px;
+	background-color:#639}
+
+#text4-5{width:100%;
+	height:380px;
+	vertical-align:middle;
+	text-align:justify;
+	color:#000;
+	font-size:15px;
+	text-height:font-size;
+	text-shadow:1px 0px #000;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:5px;
+	background-color:#639}
+	
+	#blanco{width:100%;
+	height:100px;
+	vertical-align:middle;
+	text-align:justify;
+	color:#000;
+	font-size:15px;
+	text-height:font-size;
+	text-shadow:1px 0px #000;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:5px;
+	background-color:#FFF;}
+	
+	#amarillo{width:100%;
+	height:80px;
+	vertical-align:middle;
+	text-align:justify;
+	color:#000;
+	font-size:15px;
+	text-height:font-size;
+	text-shadow:1px 0px #000;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:5px;
+	background-color:#FF0;}
+	
+	#naranja{width:100%;
+	height:80px;
+	vertical-align:middle;
+	text-align:justify;
+	color:#000;
+	font-size:15px;
+	text-height:font-size;
+	text-shadow:1px 0px #000;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:5px;
+	background-color:#F60;}
+	
+	#verde{width:100%;
+	height:80px;
+	vertical-align:middle;
+	text-align:justify;
+	color:#000;
+	font-size:15px;
+	text-height:font-size;
+	text-shadow:1px 0px #000;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:5px;
+	background-color:#390;}
+	
+	#azul{width:100%;
+	height:80px;
+	vertical-align:middle;
+	text-align:justify;
+	color:#000;
+	font-size:15px;
+	text-height:font-size;
+	text-shadow:1px 0px #000;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:5px;
+	background-color:#03C;}
+	
+	#rojo{width:100%;
+	height:120px;
+	vertical-align:middle;
+	text-align:justify;
+	color:#000;
+	font-size:15px;
+	text-height:font-size;
+	text-shadow:1px 0px #000;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:5px;
+	background-color:#F00;}
+	
+	#negro{width:100%;
+	height:120px;
+	vertical-align:middle;
+	text-align:justify;
+	color:#FFF;
+	font-size:15px;
+	text-height:font-size;
+	text-shadow:1px 0px #FFF;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:5px;
+	background-color:#000;}
+	
+	#signi{
+		width:100%;
+	    height:90px;
+		background-color:#09F;
+	    text-shadow:1px 0px #000;
+		font-size:18px;
+	}
